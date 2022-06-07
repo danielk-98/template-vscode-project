@@ -87,7 +87,8 @@ dkms.conf
 
 # Catkin build files
 /.catkin_tools/profiles/default/packages
-/.catkin_tools/profiles/default/devel_collisions.txtdevel/
+/.catkin_tools/profiles/default/devel_collisions.txt
+devel/
 logs/
 build/
 bin/
